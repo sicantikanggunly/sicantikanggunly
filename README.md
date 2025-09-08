@@ -1,17 +1,18 @@
-<!-- Profile Header -->
-<h1 align="center">✨ Hi there, I'm Keisya Putri ✨</h1>
-<h3 align="center">🌸 Passionate Learner | UI/UX & Web/App Designer | Explorer 🌸</h3>
+<!-- Header -->
+<h1 align="center">🌸 Hi, I'm Keisya Putri 🌸</h1>
+<h3 align="center">✨ Web & App Designer | UI/UX Enthusiast | Explorer ✨</h3>
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src="./asikk.png" alt="Keisya Putri" width="200" style="border-radius:50%;"/>
+  <img src="./asikk.png.jpg" alt="Keisya Putri" width="200" style="border-radius:50%;"/>
 </p>
 
+---
 
 ## 👩 About Me  
-🌱 I love learning new things, especially related to **IT, design, and creativity**.  
-🤝 I'm also open to **making new friends** and sharing knowledge.  
-💡 Always curious, always exploring ✨  
+💡 I'm passionate about **learning new things related to IT**.  
+🤝 I enjoy **connecting with people** and building friendships along the way.  
+🌱 Always growing, always exploring 🌸  
 
 ---
 
@@ -62,7 +63,5 @@
 
 ## ✨ Fun Animation  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=24&duration=4000&pause=1000&color=F72089&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I'm+Keisya+Putri;Always+learning+%26+exploring+🌍;Let's+connect+and+create+🌸"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=24&duration=4000&pause=1000&color=F72089&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I'm+Keisya+Putri+🌸;Always+learning+%26+exploring+💡;Let's+connect+and+create+together!"/>
 </p>
-
----

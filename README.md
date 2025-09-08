@@ -4,10 +4,9 @@
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src="asikk.png" alt="Keisya Putri" width="200" style="border-radius:50%;"/>
+  <img src="./asikk.png" alt="Keisya Putri" width="200" style="border-radius:50%;"/>
 </p>
 
----
 
 ## 👩 About Me  
 🌱 I love learning new things, especially related to **IT, design, and creativity**.  
